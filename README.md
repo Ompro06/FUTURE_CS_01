@@ -1,5 +1,5 @@
-FUTURE_CS_01
-🔐 Task 1: Vulnerability Assessment Report
+FUTURE_CS_01 🔐
+Task 1: Vulnerability Assessment Report
 
 This repository contains a professional vulnerability assessment conducted on two live web applications.
 
@@ -18,7 +18,6 @@ This repository contains a professional vulnerability assessment conducted on tw
 Nmap
 OWASP ZAP
 Browser Developer Tools
-
 👨‍💻 Author
 
 Omar Sawalmeh
